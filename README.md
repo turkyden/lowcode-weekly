@@ -1,4 +1,4 @@
-# Lowcode Weekly
+# LowCode Weekly
 
 《低代码周刊》
 
