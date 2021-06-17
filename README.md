@@ -2,7 +2,7 @@
 
 《低代码周刊》
 
-- 拖拽模型
+- [拖拽模型](https://codesandbox.io/embed/drag-and-drop-jqku5?fontsize=14&hidenavigation=1&theme=dark)
 - 堆叠大纲树
 - 画布布局
 - 逻辑编排
