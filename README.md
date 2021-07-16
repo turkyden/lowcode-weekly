@@ -1,6 +1,6 @@
 # LowCode Weekly
 
-《低代码周刊》
+::: 低代码周刊 :::
 
 - [拖拽模型](https://codesandbox.io/embed/drag-and-drop-jqku5?fontsize=14&hidenavigation=1&theme=dark)
 - 一键截图
