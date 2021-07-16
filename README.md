@@ -28,3 +28,6 @@
 
 [[1] 风轻扬.万字长文讲透低代码 [OL] 微信公众号.冷技术热思考](https://mp.weixin.qq.com/s/OXCBORheAx99o3fS-ZfUdg)
 
+[[2] 陈果George.低代码，不要以比“中台”还快的速度臭大街 [OL] 微信公众号.GEORGE陈果](https://mp.weixin.qq.com/s/a-30lC77k3ZpYrsucZoWDw)
+
+[[3] 田晓旭.“行业毒瘤”低代码 [OL] 微信公众号.InfoQ](https://mp.weixin.qq.com/s/nux9xJko6N1tLTK23-ZbzA)
