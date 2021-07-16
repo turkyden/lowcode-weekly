@@ -1,6 +1,10 @@
 # LowCode Weekly
 
-::: 低代码周刊 :::
+: : : 低代码周刊 : : :
+
+分享国内低代码搭建领域的一些见闻，技术难点，行业研究报告。
+
+## 技术点
 
 - [拖拽模型](https://codesandbox.io/embed/drag-and-drop-jqku5?fontsize=14&hidenavigation=1&theme=dark)
 - 一键截图
