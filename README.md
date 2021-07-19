@@ -4,6 +4,10 @@
 
 分享国内外低代码（LCAP）搭建领域的一些见闻，技术难点，行业研究报告。
 
+## 发展历史
+
+低代码在 Web 时代已经死了，Web 时代让网页工程师分成 UIUE 和前端工程师两个方向，从那个时代开始前端就正式告别了低代码。
+
 ## 六大标准
 
 > An LCAP is characterized by its use of model-driven or visual development paradigms supported by expression languages and possibly scripting …
@@ -54,7 +58,7 @@
 
 ### 国外
 
-Outsystems, Mendix, Power Platform, SalesForce, ServiceNow, PeopleSoft, Siebel
+Outsystems, Mendix, Power Platform, SalesForce, ServiceNow, PeopleSoft, Siebel, Power Apps
 
 ### 国内
 
