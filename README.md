@@ -50,6 +50,8 @@
 
 [[3] 田晓旭.“行业毒瘤”低代码 [OL] 微信公众号.InfoQ](https://mp.weixin.qq.com/s/nux9xJko6N1tLTK23-ZbzA)
 
+[[4] 阿朱说.低代码都快烂大街了，还有人在为低代码吵架 [OL] CSDN](https://blog.csdn.net/david_lv/article/details/112791430)
+
 ## 技术揭秘
 
 [[1] 菉竹.登上 Github 趋势榜，iMove 原理技术大揭秘! [OL] 微信公众号.Alibaba F2E](https://mp.weixin.qq.com/s/cfGdGp1VAVn_bUqXUspvJg)
