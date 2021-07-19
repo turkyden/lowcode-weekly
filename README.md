@@ -72,6 +72,6 @@ Outsystems, Mendix, Power Platform, SalesForce, ServiceNow, PeopleSoft, Siebel, 
 
 一些值得借鉴和学习的开源项目，深入源码揭秘低代码解决方案的设计细节。
 
-[imove 一个逻辑可复用的，面向函数的，流程可视化的 JavaScript 工具库](https://github.com/ykfe/imove)
+[imove](https://github.com/ykfe/imove) 一个逻辑可复用的，面向函数的，流程可视化的 JavaScript 工具库
 
-[ohbug 开源前端错误监控系统](https://github.com/ohbug-org/ohbug)
+[ohbug](https://github.com/ohbug-org/ohbug) 开源前端错误监控系统
