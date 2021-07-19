@@ -32,6 +32,10 @@
 
 [[3] 田晓旭.“行业毒瘤”低代码 [OL] 微信公众号.InfoQ](https://mp.weixin.qq.com/s/nux9xJko6N1tLTK23-ZbzA)
 
+## 技术揭秘
+
+[[1] 菉竹.登上 Github 趋势榜，iMove 原理技术大揭秘! [OL] 微信公众号.Alibaba F2E](https://mp.weixin.qq.com/s/cfGdGp1VAVn_bUqXUspvJg)
+
 ## 相关产品
 
 ### 国外
