@@ -7,6 +7,7 @@
 ## 六大标准
 
 > An LCAP is characterized by its use of model-driven or visual development paradigms supported by expression languages and possibly scripting …
+> 
 > ___ Gartner 魔力象限
 
 - **模型驱动：** 区别于表单驱动，从数据库 ER 图设计开始，
