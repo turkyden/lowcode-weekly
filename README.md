@@ -11,6 +11,7 @@
 - 堆叠大纲树
 - 画布布局
 - 逻辑编排
+- [在线调试](https://www.yuque.com/imove/blog/vgp6bb#toc_2)
 - 画布渲染器
 - 表单渲染器
 - 出码
