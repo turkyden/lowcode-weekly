@@ -17,7 +17,7 @@
 - **开放集成：** 支持 API 接入，与异构系统集成
 - **脚本语言：** 开发者使用集成的 WebIDE 在线编写 Javascript 等脚本语言
 
-## 技术点
+## 技术要点
 
 - [拖拽模型](https://codesandbox.io/embed/drag-and-drop-jqku5?fontsize=14&hidenavigation=1&theme=dark)
 - 一键截图
