@@ -4,6 +4,18 @@
 
 分享国内外低代码（LCAP）搭建领域的一些见闻，技术难点，行业研究报告。
 
+## 六大标准
+
+> An LCAP is characterized by its use of model-driven or visual development paradigms supported by expression languages and possibly scripting …
+> ___ Gartner 魔力象限
+
+- **模型驱动：** 区别于表单驱动，从数据库 ER 图设计开始，
+- **可视化开发：** 逻辑编排，if/else 流程图语句
+- **表达式语言：** 内置公式，工具函数
+- **软件工程：** 在线 debugger，测试，发布，版本管理
+- **开放集成：** 支持 API 接入，与异构系统集成
+- **脚本语言：** 开发者使用集成的 WebIDE 在线编写 Javascript 等脚本语言
+
 ## 技术点
 
 - [拖拽模型](https://codesandbox.io/embed/drag-and-drop-jqku5?fontsize=14&hidenavigation=1&theme=dark)
