@@ -75,3 +75,13 @@ Outsystems, Mendix, Power Platform, SalesForce, ServiceNow, PeopleSoft, Siebel, 
 [imove](https://github.com/ykfe/imove) 一个逻辑可复用的，面向函数的，流程可视化的 JavaScript 工具库
 
 [ohbug](https://github.com/ohbug-org/ohbug) 开源前端错误监控系统
+
+## ⭐ Stargazers
+
+Thanks for your star!
+
+[![Stargazers repo roster for @Turkyden/lowcode-weekly](https://reporoster.com/stars/Turkyden/lowcode-weekly)](https://github.com/Turkyden/lowcode-weekly/stargazers)
+
+## License
+
+[MIT](https://github.com/Turkyden/lowcode-weekly/blob/main/LICENSE)
