@@ -66,7 +66,7 @@ Outsystems, Mendix, Power Platform, SalesForce, ServiceNow, PeopleSoft, Siebel, 
 
 [网易数帆](https://www.163yun.com/product/lcap)
 
-[ivx 一款强大、高效、易学的零代码开发语言 & 全生命周期一站式云原生应用开发工具](https://www.ivx.cn/)
+[ivx](https://www.ivx.cn/) 一款强大、高效、易学的零代码开发语言 & 全生命周期一站式云原生应用开发工具
 
 ## 开源项目
 
