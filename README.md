@@ -62,6 +62,8 @@
 
 Outsystems, Mendix, Power Platform, SalesForce, ServiceNow, PeopleSoft, Siebel, Power Apps
 
+[editorx](https://www.editorx.com/)
+
 ### 国内
 
 [网易数帆](https://www.163yun.com/product/lcap)
